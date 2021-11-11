@@ -6,7 +6,7 @@ I am Krutika and I have experience working in Analytics, Software Development an
 When I am not working :woman_technologist:, you can often find me traveling, learning new stuff and improving my skills.
 
 
-(https://github-readme-stats.vercel.app/api?username=KrutikaAmberkar&theme=synthwave&show_icons=true&count_private=true “Krutika’ GutHub Stats”)
+
 
 
 
