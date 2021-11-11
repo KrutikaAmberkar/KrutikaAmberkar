@@ -7,7 +7,7 @@ When I am not working :woman_technologist:, you can often find me traveling, lea
 
 <h2> Tools and Technologies :wrench: </h2>
 
-https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"></img>
 
 https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white
 
