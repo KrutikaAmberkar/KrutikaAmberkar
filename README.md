@@ -17,7 +17,7 @@ When I am not working :woman_technologist:, you can often find me traveling, lea
 <img src="https://img.shields.io/badge/RStudio-75AADB?style=for-the-badge&logo=RStudio&logoColor=white"></img>
 <img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"></img>
 
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=KrutikaAmberkar&show_icons=true)](https://github.com/KrutikaAmberkar)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KrutikaAmberkar&layout=compact)](https://github.com/KrutikaAmberkar)
 
 
